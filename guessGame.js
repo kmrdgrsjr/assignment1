@@ -3,11 +3,8 @@
 var live = "Tacoma"
 		var state = "Alabama";
 		var age=31;
-		
-
-	var guess =  prompt('How old is Keith Rodgers Jr?');
-	
-	if (guess === 31 ) {
+		var guess =  prompt('How old is Keith Rodgers Jr?');
+	if (guess == 31 ) {
 		alert('You are correct!')
 	}
 	else {
@@ -27,61 +24,6 @@ var live = "Tacoma"
 		{
 			alert('Good ole Tacoma')
 		}
-	else 
-		
-v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	else {
 		alert('Try reading the text again')
 	};
